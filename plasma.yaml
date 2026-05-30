@@ -1,4 +1,4 @@
-impl: 'https://github.com/blend-os/tracks/raw/main'
+impl: 'https://github.com/zzkeier/blendos-tracks/raw/main'
 
 track: 'blendos-base'
 
@@ -10,8 +10,6 @@ packages:
   - 'plasma-workspace'
   - 'sddm'
   - 'firefox'
-  - 'waydroid'
-  - 'waydroid-image'
   - 'wl-clipboard'
 
 services:
