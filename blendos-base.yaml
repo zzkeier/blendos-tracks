@@ -2,9 +2,7 @@ track: 'custom'
 
 packages:
   - 'alsa-utils'
-  - 'amd-ucode'
   - 'arch-install-scripts'
-  - 'b43-fwcutter'
   - 'archlinux-keyring'
   - 'base-devel'
   - 'git'
@@ -69,7 +67,6 @@ packages:
   - 'linux-zen-headers'
   - 'linux-atm'
   - 'linux-firmware'
-  - 'linux-firmware-marvell'
   - 'power-profiles-daemon'
   - 'fwupd'
   - 'man-db'
