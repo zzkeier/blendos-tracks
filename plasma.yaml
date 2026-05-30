@@ -9,7 +9,6 @@ packages:
   - 'plasma'
   - 'plasma-workspace'
   - 'sddm'
-  - 'firefox'
   - 'wl-clipboard'
 
 services:
