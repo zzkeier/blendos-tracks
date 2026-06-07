@@ -15,6 +15,7 @@ packages:
   - 'konsole'
   - 'sddm'
   - 'wl-clipboard'
+  - 'linux-zen'
 
 services:
   - 'sddm'
